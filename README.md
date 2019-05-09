@@ -8,13 +8,13 @@ awesome-python3-webapp/  <-- 根目录
 |
 +- dist/                 <-- 打包目录
 |
++- ios/                  <-- 存放iOS App工程
+|
 +- www/                  <-- Web目录，存放.py文件
 |  |
 |  +- static/            <-- 存放静态文件
 |  |
 |  +- templates/         <-- 存放模板文件
-|
-+- ios/                  <-- 存放iOS App工程
 |
 +- LICENSE               <-- 代码LICENSE
 ```
